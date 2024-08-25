@@ -13,3 +13,5 @@ You can check out my work
 You can contact me from the website
 
 You can download my cv Its a fully functional and responsive Porfolio-Website
+
+You can visit the live site by going to:-https://muhammadomer902.github.io/Potfolio_Website_Coursera_Project/
