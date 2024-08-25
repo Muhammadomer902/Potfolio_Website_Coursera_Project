@@ -2,6 +2,8 @@
 
 It is a Fully Functional Portfolio website of a Coursera made as a project of course:-https://www.coursera.org/projects/build-portfolio-website-html-css
 
+Other course detail can be checked from:-https://github.com/Muhammadomer902/Coursera/tree/main/Build%20Your%20Portfolio%20Website%20with%20HTML%20and%20CSS
+
 My Portfolio Website 
 
 A well designed responsive Portfolio Website using HTML and CSS
